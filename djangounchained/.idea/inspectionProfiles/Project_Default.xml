@@ -1,0 +1,22 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <option name="myLocal" value="true" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="8">
+            <item index="0" class="java.lang.String" itemvalue="pyserial" />
+            <item index="1" class="java.lang.String" itemvalue="mako" />
+            <item index="2" class="java.lang.String" itemvalue="numpy" />
+            <item index="3" class="java.lang.String" itemvalue="ctree" />
+            <item index="4" class="java.lang.String" itemvalue="stencil_code" />
+            <item index="5" class="java.lang.String" itemvalue="stencil-code" />
+            <item index="6" class="java.lang.String" itemvalue="sympy" />
+            <item index="7" class="java.lang.String" itemvalue="snowflake" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
